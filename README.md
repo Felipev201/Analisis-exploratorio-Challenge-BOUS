@@ -7,7 +7,12 @@ Aqui se muestra un resumen de los resultados encontrados conisderados mas releva
 
 - Las variables **periodicidad**, **tabla amortizacion**, **contrato** y **tipo de reestructura** no nos brindan informacion para el análisis
 - Mas del 98\% de los contratos están en moneda nacional
+  
+  ![](Imagenes/Moneda.png)
 - La CDMX abarca casi 3 de cada 4 contratos realizados, sin embargo el resto de las regiones tienen valores mayores en variables monetarias por contrato
+
+  ![](Imagenes/pie_region.png)
+  ![](Imagenes/barra_region.png)
 - Se han hecho contratos con 383 clientes, pero solo entre 3 clientes se abarca el 50\% de los contratos
 - Casi la mitad de los contratos no ofrecen comisiones
 - En el año 2017 se realizaron mas del doble de contratos que el resto de los años (excepto en el 2020). Minetras que en el 2020 se realizaron mas del triple
