@@ -14,9 +14,21 @@ Aqui se muestra un resumen de los resultados encontrados conisderados mas releva
   ![](Imagenes/pie_region.png)
   ![](Imagenes/barra_region.png)
 - Se han hecho contratos con 383 clientes, pero solo entre 3 clientes se abarca el 50\% de los contratos
+
+  ![](Imagenes/pie_clientes.png)
 - Casi la mitad de los contratos no ofrecen comisiones
+
+  ![](Imagenes/comision.png)
 - En el año 2017 se realizaron mas del doble de contratos que el resto de los años (excepto en el 2020). Minetras que en el 2020 se realizaron mas del triple
 - Los meses en los que se realizaron mas contratos fueron en Febrero y Marzo
+
+  ![](Imagenes/fechas.png)
 - La variables **Rentas** y **Monto Inicial Activos** tienen una dependencia lineal entre si. 
+
+  ![](Imagenes/relacion.png)
 - Los contratos por arrendamiento tienen una mediana de mas del doble que los de arrendamiento puro en todas las variables monetarias.
+
+  ![](Imagenes/producto.png)
 - El cliente principal tiene una mediana coparable con el resto de los clientes en casi todas las categorias por lo que no hay mucha diferencia entre los contratos con el cliente principal y con el resto de los clientes
+
+  ![](Imagenes/barra_cliente.png)
